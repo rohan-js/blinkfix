@@ -234,6 +234,5 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for complete details.
 
 - **[DOCUMENTATION.md](DOCUMENTATION.md)** - Complete technical documentation with all 8 deliverables
 - **[TEST_RESULTS.md](TEST_RESULTS.md)** - Detailed test results and verification
-- **[SUMMARY.md](SUMMARY.md)** - Quick reference and competition summary
 
 ---
