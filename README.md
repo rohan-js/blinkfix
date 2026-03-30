@@ -1,9 +1,4 @@
 # 8-bit CPU Design
-
-**Competition**: Bit-Trix 2026 @ IIITDM Kancheepuram  
-**Status**: COMPLETE - ALL TESTS PASSED  
-**Test Results**: 16/16 (100% Success Rate)
-
 ---
 
 ## Overview
